@@ -10,5 +10,6 @@ angular
 
 		var vm = this;
 
-		vm.test = ['test', 'test'];
+		vm.test = {'test': 'test'};
+		
 	}
